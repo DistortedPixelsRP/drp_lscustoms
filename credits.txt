@@ -1,0 +1,4 @@
+Thanks to the following people:
+MythicalBro - For allowing me to convert and re-release his resource.
+Skonchy - Helping me figure out how to fix an error.
+Darkzy, xander1998, EnVyyyyy, and all other DRP contributors - For the DRP framework.
